@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmedelkomy
 - 👀 I’m interested in coding&software
 - 🌱 I’m currently learning C_langauge
-- 💞️ I’m looking to collaborate on friends, members 
+- 💞️ I’m looking to collaborate with friends, members 
 - 📫 How to reach me by texting, message, calling
 
 <!---
